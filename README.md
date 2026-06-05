@@ -22,21 +22,6 @@
 
 </div>
 
----
-
-## UI & Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-22c55e?style=for-the-badge" alt="Full Stack Development" />
-<img src="https://img.shields.io/badge/Style-Modern%20Clean-0ea5e9?style=for-the-badge" alt="Modern Clean" />
-<img src="https://img.shields.io/badge/Code-Responsive-f97316?style=for-the-badge" alt="Responsive Code" />
-<img src="https://img.shields.io/badge/Learning-Everyday-a855f7?style=for-the-badge" alt="Learning Everyday" />
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -46,7 +31,7 @@
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=itzluthfi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=itzluthfi&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
 
 </div>
 
@@ -84,9 +69,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzluthfi/itzluthfi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzluthfi/itzluthfi/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzluthfi/itzluthfi/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzluthfi/itzluthfi/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzluthfi/itzluthfi/output/github-contribution-grid-snake.svg?v=2" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzluthfi/itzluthfi/output/github-contribution-grid-snake.svg?v=2" />
 </picture>
 
 </div>
