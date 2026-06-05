@@ -14,32 +14,6 @@
 
 ---
 
-<div align="center">
-
-<img src="./assets/luthfi-dev-card.svg" width="820" alt="Animated developer card" />
-
-</div>
-
----
-
-## About Me
-
-```ts
-const luthfi = {
-  name: "Luthfi",
-  username: "itzluthfi",
-  focus: ["Web Development", "Frontend UI", "Clean Code"],
-  currentlyLearning: ["JavaScript", "React", "Tailwind CSS"],
-  goal: "Build useful, clean, and good-looking digital products",
-};
-```
-
-- I like building modern, responsive, and interactive web interfaces.
-- I enjoy improving projects little by little until they feel polished.
-- I am currently sharpening my frontend and web development skills.
-
----
-
 ## Tech Stack
 
 <div align="center">
