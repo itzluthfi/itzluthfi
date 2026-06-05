@@ -2,13 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:22c55e,100:f97316&height=180&section=header&text=Hi,%20I'm%20Luthfi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Developer;Always+learning+new+things" alt="Typing SVG" />
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=itzluthfi&style=for-the-badge&color=22c55e" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/itzluthfi?style=for-the-badge&color=0ea5e9&label=Followers" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/itzluthfi?style=for-the-badge&color=f97316&label=Stars" alt="GitHub stars" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Developer;Mobile+Developer;Always+learning+new+things" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +13,6 @@
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzluthfi&theme=tokyonight" alt="Profile Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzluthfi&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 
 <br />
 
