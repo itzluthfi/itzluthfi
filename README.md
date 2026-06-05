@@ -39,16 +39,6 @@
 
 ---
 
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itzluthfi&theme=tokyo-night&hide_border=true&area=true&custom_title=Luthfi%27s%20Contribution%20Graph" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
 <!--
 ## Contribution Snake
 
