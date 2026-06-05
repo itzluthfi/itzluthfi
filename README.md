@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:22c55e,100:f97316&height=180&section=header&text=Hi,%20I'm%20Luthfi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+Developer;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Developer;Always+learning+new+things" alt="Typing SVG" />
 
 <br />
 
@@ -28,20 +28,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Frontend%20UI-22c55e?style=for-the-badge" alt="Frontend UI" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-22c55e?style=for-the-badge" alt="Full Stack Development" />
 <img src="https://img.shields.io/badge/Style-Modern%20Clean-0ea5e9?style=for-the-badge" alt="Modern Clean" />
 <img src="https://img.shields.io/badge/Code-Responsive-f97316?style=for-the-badge" alt="Responsive Code" />
 <img src="https://img.shields.io/badge/Learning-Everyday-a855f7?style=for-the-badge" alt="Learning Everyday" />
-
-</div>
-
----
-
-## Featured Photo
-
-<div align="center">
-
-<img src="./potobut.jpg" width="520" alt="Luthfi photo collage" />
 
 </div>
 
@@ -51,12 +41,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itzluthfi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=itzluthfi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzluthfi&theme=tokyonight" alt="Profile Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzluthfi&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzluthfi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=itzluthfi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -74,19 +64,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzluthfi&theme=tokyonight" alt="Most Commit Language" />
 
 <br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzluthfi&theme=tokyonight" alt="Profile Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzluthfi&theme=tokyonight&utcOffset=7" alt="Productive Time" />
-
-</div>
-
----
-
-## GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=itzluthfi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophy" />
 
 </div>
 
@@ -111,16 +88,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzluthfi/itzluthfi/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itzluthfi/itzluthfi/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
----
-
-## Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
