@@ -14,14 +14,6 @@
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode&perline=6" alt="Tech Stack" />
-
-</div>
-
 ## GitHub Stats
 
 <div align="center">
@@ -64,6 +56,7 @@
 
 ---
 
+<!--
 ## Contribution Snake
 
 <div align="center">
@@ -77,24 +70,7 @@
 </div>
 
 ---
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/itzluthfi">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.instagram.com/itzluthfi">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:luthfishidqi2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
-<br />
+-->
 
 <div align="center">
 
