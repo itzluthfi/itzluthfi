@@ -8,19 +8,7 @@
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzluthfi&theme=tokyonight" alt="Profile Stats" />
-
-<br />
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=itzluthfi&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## Profile Summary
 
