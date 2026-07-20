@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:22c55e,100:f97316&height=180&section=header&text=Hi,%20I'm%20Luthfi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:22c55e,100:f97316&height=180&section=header&text=Hi,%20I'm%20Luthfi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlig[...] 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Developer;Mobile+Developer;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Developer;Mo[...] 
 
 </div>
 
@@ -27,7 +27,6 @@
 
 ---
 
-<!--
 ## Contribution Snake
 
 <div align="center">
@@ -41,7 +40,6 @@
 </div>
 
 ---
--->
 
 <div align="center">
 
